@@ -1,0 +1,16 @@
+body {
+  font-family: 'Rock Salt', cursive;
+}
+p{font-family: 'Griffy', cursive; color: aliceblue; font-size: 20px
+}
+h1{color: aliceblue
+}
+h2{color: aliceblue
+}
+h3{color: aliceblue}
+ul{color: oldlace}
+#picture {
+  height: 300px;
+  background: url('https://s-media-cache-ak0.pinimg.com/originals/9a/a4/0c/9aa40c9c549bf60fac9d52c987137970.jpg') no-repeat;
+  background-size:contain;
+}
